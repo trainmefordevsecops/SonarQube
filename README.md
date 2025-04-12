@@ -34,7 +34,7 @@ We provide **professional-level training** in DevSecOps, covering tools and prac
 
 ### 🚀 **CI/CD Jenkins Master**
 - Master Jenkins and automate your software build and delivery pipeline.  
-[**Jenkins Master Course**]([https://rb.gy/u0ygq](https://www.udemy.com/course/jenkins-zero-to-pro/?referralCode=B22728019BE14B80A3A8))
+[**Jenkins Master Course**](https://www.udemy.com/course/jenkins-zero-to-pro/?referralCode=B22728019BE14B80A3A8)
 
 ### 🚀 **Free Linux Course: Introduction to Linux Crash Course**
 - Get started with Linux, the backbone of many modern IT systems.  
@@ -42,7 +42,7 @@ We provide **professional-level training** in DevSecOps, covering tools and prac
 
 ### 🚀 **AWS DevOps Certification: DOP-C01 Practice Test**
 - Prepare for the AWS DevOps Engineer - Professional exam with this practice test.  
-[**AWS DevOps Practice Test**]([https://www.udemy.com/course/aws-devops-practice-test/?referralCode=D8209AD57D310A001C78](https://www.udemy.com/course/aws-devops-practice-test-dop-c01-2023/?referralCode=D8209AD57D310A001C78))
+[**AWS DevOps Practice Test**](https://www.udemy.com/course/aws-devops-practice-test-dop-c01-2023/?referralCode=D8209AD57D310A001C78)
 
 
 ---
